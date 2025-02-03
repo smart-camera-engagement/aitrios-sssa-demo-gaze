@@ -75,3 +75,8 @@ As you can see in the diagram below, key points on this demo are:
     - Type 3 PoE camera and PC (or Raspberry Pi) must be on the same network
 
 ## Setting up Gaze Estimation Demo
+
+``To Be Added``
+
+
+## Resources
