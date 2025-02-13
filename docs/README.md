@@ -120,7 +120,7 @@ Summary of parameters to give to ``docker`` command.
 
 ## Demo Application Parameters (``env.yaml``)
 
-``env.yaml`` file is consiste of 4 sections.
+``env.yaml`` file is consiste of 4 sections.  Download template from [here](../env.yaml).
 
 ### ``SCS_REST_API`` Section
 
